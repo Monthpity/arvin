@@ -81,6 +81,13 @@ export const PROJECTS = [
     demoUrl: 'https://chat.cmymoon.com/',
     repoUrl: 'https://github.com/Monthpity/Moon-ChatGPT',
   },
+  {
+    name: 'Moonの相册',
+    desc: '照片的意义就是将一瞬间变成永恒',
+    cover: 'https://picture.cmymoon.com/else/photo.webp',
+    demoUrl: 'https://photo.mymoons.cn/',
+    repoUrl: 'https://github.com/Monthpity/Photo',
+  },
 ]
 
 export const giscusSetting = {
